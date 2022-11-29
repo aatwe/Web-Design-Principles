@@ -1,0 +1,16 @@
+Color Wheel : VIBGYOR
+
+
+1) Right beside colors : Analogous Colors
+	//Doesnt work when you want to stand out
+
+2) Opposite End Colors: Complementary Colors
+	// Pop things out	
+	 Meat + Green fake grass in shopping mart
+	Dont style text with it, Eye strain
+	Use for logos icons	 
+
+3) how to create a color palette? Triangle, Square etc
+	Adobe Color website
+	Get different combinations of colors
+	Colorhunt.co

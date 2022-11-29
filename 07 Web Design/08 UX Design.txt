@@ -1,0 +1,21 @@
+Renovation of college
+
+
+Not what we think looks good and enforcing
+A good User Experience is invisibleS
+It lets you do your thing, feels like everything is easy and effortless
+
+1) Simplicity : Provides interest
+2) Consistency : Design + Functionality should be consistent
+	User should not have to relearn
+3) Reading pattern //eye tracking pattern
+	Eye reads F pattern, Z Pattern(FB layout)
+
+4) All Platform Design 
+	Device Real Estate/Environment friendly  
+5) Dont use design 
+
+6) Dont Be Evil in UX , confuse etc
+	users set out to do -> soemthing else only clicked
+	confusing trick questions	
+

@@ -1,0 +1,21 @@
+How to establish Hierarchy
+
+1) Color:
+
+2) Size
+
+3) Layout
+	Text/picture in different sizes
+	40-60 characters per line
+
+4) Allignment
+	Centre vs left align
+	Reduce no. of allignment points....line at beginning...
+	Use grid lines
+
+5) White Space (Minimalist)
+	Injecting white space around products
+	Make things look expensive
+
+6) Who is your audience
+	Different styles for different audience
